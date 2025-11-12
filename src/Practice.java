@@ -3,7 +3,5 @@ public class Practice {
         System.out.println("Hello, this is my second commit");
         System.out.println("bye, my second commit is finish");
         System.out.println("bye, my second commit is finish");
-
-
     }
 }
